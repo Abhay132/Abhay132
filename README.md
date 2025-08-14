@@ -1,7 +1,6 @@
 <!-- Banner -->
-<!-- Banner -->
 <p align="center">
-  <img src="banner.png" alt="Banner" style="max-width: 100%; height: auto;" width="500">
+  <img src="banner.png" alt="Banner" width="600" style="border-radius:15px;box-shadow:0 4px 12px rgba(0,0,0,0.4);">
 </p>
 
 
