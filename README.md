@@ -1,5 +1,6 @@
 <!-- Banner -->
-![Banner](https://i.postimg.cc/FR2hnXLL/abhay-banner.png)  
+![Banner](banner.png)
+
 
 # Hi, I'm Abhay Pratap Chauhan 👋  
 
