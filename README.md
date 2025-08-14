@@ -1,5 +1,9 @@
 <!-- Banner -->
-![Banner](banner.png)
+<!-- Banner -->
+<p align="center">
+  <img src="banner.png" alt="Banner" width="800">
+</p>
+
 
 
 # Hi, I'm Abhay Pratap Chauhan 👋  
