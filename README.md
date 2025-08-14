@@ -1,6 +1,4 @@
-![Banner](banner.png)
-
-
+ 
 
 # Hi, I'm Abhay Pratap Chauhan 👋  
 
