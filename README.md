@@ -1,7 +1,7 @@
 <!-- Banner -->
 <!-- Banner -->
 <p align="center">
-  <img src="banner.png" alt="Banner" style="max-width: 100%; height: auto;" width="600">
+  <img src="banner.png" alt="Banner" style="max-width: 100%; height: auto;" width="500">
 </p>
 
 
