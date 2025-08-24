@@ -1,5 +1,4 @@
-<!-- Banner -->
-![Welcome Banner](https://i.imgur.com/8Ykzj2y.png)
+
 
 # 👋 Hey there, I’m **Abhay Pratap Chauhan**  
 
@@ -17,7 +16,8 @@
 ---
 
 ## 🏆 GitHub Achievements  
-[![Trophies](https://github-profile-trophy.vercel.app/?username=Abhay132&theme=radical&no-frame=true&margin-w=15)](https://github.com/ryo-ma/github-profile-trophy)  
+[![Trophies](https://github-profile-trophy.vercel.app/?username=Abhay132&theme=gruvbox&margin-w=15&margin-h=15)](https://github.com/ryo-ma/github-profile-trophy)
+
 
 ---
 
