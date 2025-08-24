@@ -16,7 +16,7 @@
 ---
 
 ## 🏆 GitHub Achievements  
-[![Trophies](https://github-profile-trophy.vercel.app/?username=Abhay132&theme=gruvbox&margin-w=15&margin-h=15)](https://github.com/ryo-ma/github-profile-trophy)
+[[![Trophies](https://github-profile-trophy.vercel.app/?username=Abhay132&theme=gruvbox&margin-w=15&margin-h=15)](https://github.com/ryo-ma/github-profile-trophy)](https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=juicyfresh)
 
 
 ---
