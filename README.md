@@ -15,16 +15,6 @@
 
 ---
 
-## ​ Quick Workaround: Alternative Badges
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Abhay132&show_icons=true&theme=radical)
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Abhay132&theme=radical)
-
-
-
----
-
 ## 🚀 Featured Projects  
 
 🔹 **[🛡 Face Mask Detection](#)** → Real-time detection with CNN + OpenCV  
