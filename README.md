@@ -15,8 +15,11 @@
 
 ---
 
-## 🏆 GitHub Achievements
-[![trophy](https://github-profile-trophy.vercel.app/?username=Abhay132&theme=radical&row=1&column=6)](https://github.com/ryo-ma/github-profile-trophy)
+## ​ Quick Workaround: Alternative Badges
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Abhay132&show_icons=true&theme=radical)
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Abhay132&theme=radical)
 
 
 
